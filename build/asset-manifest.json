@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/in/saldelgado1/static/css/main.2d45ca70.css",
+    "main.js": "/in/saldelgado1/static/js/main.1d5f834f.js",
+    "static/media/me.png": "/in/saldelgado1/static/media/me.9f31651c67f75d271eb9.png",
+    "static/media/portfolio5.png": "/in/saldelgado1/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me-about2.jpg": "/in/saldelgado1/static/media/me-about2.7b7c040c8e21b26676ef.jpg",
+    "static/media/cv.pdf": "/in/saldelgado1/static/media/cv.3e0a2402ece875f81cc3.pdf",
+    "static/media/portfolio2.jpg": "/in/saldelgado1/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/in/saldelgado1/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/in/saldelgado1/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/in/saldelgado1/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/in/saldelgado1/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/in/saldelgado1/index.html",
+    "main.2d45ca70.css.map": "/in/saldelgado1/static/css/main.2d45ca70.css.map",
+    "main.1d5f834f.js.map": "/in/saldelgado1/static/js/main.1d5f834f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d45ca70.css",
+    "static/js/main.1d5f834f.js"
+  ]
+}

@@ -6,7 +6,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 // import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
-import IMG7 from '../../assets/catAI.png'
+import IMG7 from '../../assets/1.png'
 import IMG8 from '../../assets/gh2.png'
 
 

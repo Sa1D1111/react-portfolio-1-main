@@ -40,13 +40,11 @@ const About = () => {
           </div>
 
           <p>
-          CS student - CSUF. I am actively exploring a variety of technologies, such as C++, HTML5, CSS, JavaScript, and Python. I am very excited to continue my education and apply what I have learned to real-world scenarios.
-
-I believe that continuing to learn and improve my skills is essential for success in this field, and I am dedicated to staying up-to-date with the latest developments and trends in technology.
-
-As a student, I am always looking for opportunities to apply my knowledge and skills in a practical setting. I am open to collaborate on any awesome projects!
-
-Please feel free to contact me if you have any opportunities or if you just want to chat about tech!
+          CS student @ CSU Fullerton. I am actively exploring a variety of technologies. My current interests are on Machine learning/AR (Augmented Reality),
+           MR (Mixed Reality)/Stable Diffusion/Warp Fusion  I am very excited to continue my education and apply what I have learned to real-world scenarios.
+          I'm eager to learn and work on projects that champion AI ethics, and help shape a future where AI serves as a powerful tool for good, 
+          benefiting society as a whole. Let's come together and create a world where AI is responsibly harnessed, paving the way for a brighter,
+           more secure future. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

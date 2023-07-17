@@ -34,7 +34,8 @@ const Contact = () => {
             <RiTwitterLine className='contact__option-icon'/>
             <h4>Twitter</h4>
             <h5>twitter.com/SalDev1111</h5>
-            <a href="https://www.linkedin.com/in/saldelgado1/" target="_blank">Send a message</a>
+            <a href="https://twitter.com/messages/compose?recipient_id=1468664563700666374&text=Hello%20world"
+   class="twitter-dm-button" data-screen-name="@SalDev1111" target="_blank">Send a message</a>
           </article>
          
         </div>

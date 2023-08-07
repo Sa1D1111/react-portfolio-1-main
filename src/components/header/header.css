@@ -39,8 +39,8 @@ header {
 /* =============== ME ============== */
 .me {
   background: linear-gradient(var(--color-primary), transparent);
-  width: 26rem;
-  height: 28rem;
+  width: 25rem;
+  height: -2rem;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -49,6 +49,16 @@ header {
   overflow: hidden;
   padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
+
+.me img {
+  width: 70%;
+  height: 100%;
+  object-fit: cover; /* or contain, based on your preference */
+  margin-left: 15%; /* Adjust this value to move the image to the right */
+
+}
+
+
 
 /* =============== SCROLL DOWN ============== */
 .scroll__down {

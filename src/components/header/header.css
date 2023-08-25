@@ -37,6 +37,10 @@ header {
 }
 
 /* =============== ME ============== */
+
+
+
+
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 25rem;
@@ -57,6 +61,9 @@ header {
   margin-left: 15%; /* Adjust this value to move the image to the right */
 
 }
+
+
+
 
 
 

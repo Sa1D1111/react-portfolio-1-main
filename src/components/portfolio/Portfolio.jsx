@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 // import IMG2 from '../../assets/portfolio2.jpg'
-// import IMG3 from '../../assets/portfolio3.jpg'
+import IMG3 from '../../assets/flower.png'
 // import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
@@ -26,14 +26,15 @@ const data = [
     title: 'MeowGPT',
     github: 'https://github.com/Sa1D1111/meowGpt',
     demo: 'https://meow-gpt-chi.vercel.app/'
-  //}
-  // {
-  //   id: 3,
-  //   image: IMG3,
-  //   title: 'Figma dashboard UI kit for data design web apps',
-  //   github: 'https://github.com',
-  //   demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
-  // },
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: 'JS Flower Art',
+    github: 'https://github.com/Sa1D1111/JS_Flower_animation.art',
+    demo: 'https://sa1d1111.github.io/JS_Flower_animation.art/'
+  }
+]
   // {
   //   id: 4,
   //   image: IMG4,
@@ -54,8 +55,9 @@ const data = [
   //   title: 'Charts templates & infographics in Figma',
   //   github: 'https://github.com',
   //   demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-   }
-]
+
+//   }
+//]
 
 
 const Portfolio = () => {

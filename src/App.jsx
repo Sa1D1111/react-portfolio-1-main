@@ -9,6 +9,8 @@ import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 
+import { Routes } from 'react-router-dom'
+
 const App = () => {
   return (
     <>
@@ -21,7 +23,16 @@ const App = () => {
         <Testimonials />
         <Contact />
         <Footer />
+        
+        {/* <Router>
+       <Routes>
+         <Route path="/test" element={<Abouts />} />
+       </Routes>
+     </Router> */}
+
+     
     </>
+    
   )
 }
 

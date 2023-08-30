@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
-// import IMG2 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/symbolic-reg.png'
 import IMG3 from '../../assets/flower.png'
 // import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
@@ -26,6 +26,13 @@ const data = [
     title: 'MeowGPT',
     github: 'https://github.com/Sa1D1111/meowGpt',
     demo: 'https://meow-gpt-chi.vercel.app/'
+  },
+  {
+    id: 3,
+    image: IMG2,
+    title: 'Symbolic Regressor',
+    github: 'https://github.com/Sa1D1111/symbolic-reg/tree/main',
+    demo: 'https://symbolic-reg.vercel.app/'
   },
   {
     id: 3,

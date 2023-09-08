@@ -38,8 +38,8 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'JS Flower Art',
-    github: 'https://sa1d1111.github.io/JS-Flower-animation.art/',
-    demo: 'https://sa1d1111.github.io/JS_Flower_animation.art/'
+    github: 'https://github.com/Sa1D1111/js-flower-animation.art',
+    demo: 'https://sa1d1111.github.io/JS-Flower-animation.art/'
   }
 ]
   // {

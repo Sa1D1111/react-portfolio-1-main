@@ -18,7 +18,7 @@ const data = [
     image: IMG8,
     title: 'Check out my GitHub profile',
     github: 'https://github.com/Sa1D1111',
-    demo: 'https://sa1d1111.github.io/Matrix_ArtY/'
+    demo: 'https://sa1d1111.github.io/matrix-art/'
   },
   {
     id: 2,

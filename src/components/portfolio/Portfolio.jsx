@@ -39,7 +39,7 @@ const data = [
     image: IMG3,
     title: 'JS Flower Art',
     github: 'https://github.com/Sa1D1111/js-flower-animation.art',
-    demo: 'https://sa1d1111.github.io/JS-Flower-animation.art/'
+    demo: 'https://sa1d1111.github.io/js-flower-animation.art/'
   }
 ]
   // {

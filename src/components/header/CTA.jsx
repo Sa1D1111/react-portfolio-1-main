@@ -13,7 +13,7 @@ const CTA = () => {
         <a href="https://withkoji.com/@SalDev" className='btn btn-primary2' target='_blank' rel='noopener noreferrer'>Koji</a>
  
         {/* <a href="/ai" className='btn btn-primary2' target='_blank' >tse</a> */}
-        {/* <Link to="/new-page" className='btn btn-primary2'> Go to New Page </Link> */}
+        {/* <Link to="/new-page" className='btn btn-primary2'> Go to New Page </Link>  */}
     </div>
   )
 }

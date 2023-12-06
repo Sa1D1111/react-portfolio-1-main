@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/symbolic-reg.png'
 import IMG3 from '../../assets/flower.png'
-// import IMG4 from '../../assets/portfolio4.jpg'
+import IMG4 from '../../assets/cat-logo.png'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
 import IMG7 from '../../assets/1.png'
@@ -22,13 +22,6 @@ const data = [
   },
   {
     id: 2,
-    image: IMG7,
-    title: 'MeowGPT',
-    github: 'https://github.com/Sa1D1111/meowGpt',
-    demo: 'https://meow-gpt-chi.vercel.app/'
-  },
-  {
-    id: 3,
     image: IMG2,
     title: 'Symbolic Regressor',
     github: 'https://github.com/Sa1D1111/symbolic-reg/tree/main',
@@ -40,7 +33,34 @@ const data = [
     title: 'JS Flower Art',
     github: 'https://github.com/Sa1D1111/js-flower-animation.art',
     demo: 'https://sa1d1111.github.io/js-flower-animation.art/'
-  }
+  },
+  {
+    id: 4,
+     image: IMG4,
+     title: 'Cat Breed Library',
+     github: 'https://github.com/Sa1D1111',
+     demo: 'https://sa1d1111.github.io/cpsc362-project-cat-library/'
+ },
+ {
+  id: 5,
+  image: IMG7,
+  title: 'MeowGPT',
+  github: 'https://github.com/Sa1D1111/meowGpt',
+  demo: 'https://meow-gpt-chi.vercel.app/'
+},
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+ 
 ]
   // {
   //   id: 4,

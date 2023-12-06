@@ -40,11 +40,12 @@ const About = () => {
           </div>
 
           <p>
-          CS student @ CSU Fullerton. I am actively exploring a variety of technologies. My current interests are on Machine learning/AR (Augmented Reality),
-           MR (Mixed Reality)/Stable Diffusion/Warp Fusion  I am very excited to continue my education and apply what I have learned to real-world scenarios.
-          I'm eager to learn and work on projects that champion AI ethics, and help shape a future where AI serves as a powerful tool for good, 
-          benefiting society as a whole. Let's come together and create a world where AI is responsibly harnessed, paving the way for a brighter,
-           more secure future. 
+          Welcome! I'm a web developer, software engineer, and data enthusiast currently honing my craft as a Computer Science student at CSU Fullerton. 
+          My journey through code and pixels is driven by a deep fascination with the possibilities of Machine Learning, Augmented Reality, Mixed Reality, 
+          Stable Diffusion, and Warp Fusion. As I navigate the ever-evolving tech landscape, my goal is to harness these technologies to build innovative 
+          solutions that resonate with users and spark progress. Join me as I meld academic rigor with real-world application, all while championing AI ethics 
+          to ensure technology remains a force for good. Let's create, innovate, and elevate together.
+
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

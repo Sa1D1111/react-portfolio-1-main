@@ -41,7 +41,7 @@ const About = () => {
 
           <p>
               
-          Welcome! I'm a dedicated breathwork practitioner
+          Welcome! I'm a dedicated breathwork practitioner test
 
           I guide individuals on a transformative journey of self-discovery and healing through the power
           of breath. With a deep understanding of somatic breathwork techniques, I create a safe and nurturing space for you to explore and release

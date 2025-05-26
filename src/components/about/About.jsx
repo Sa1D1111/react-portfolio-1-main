@@ -51,12 +51,12 @@ const About = () => {
 
           <p>
           After earning my degree in Computer Science from Cal State Fullerton, I dove into the world of blockchain and wireless innovation.
-          I now work on Helium Network deployments, blending my love for connectivity, infrastructure, and emerging technology. Whether it’s optimizing sensor data or expanding decentralized coverage, I’m driven by purpose and progress.
-          From breath to bandwidth, my mission is to empower, elevate, and build systems—biological and digital—that support growth and freedom.
-          Let’s connect, breathe, and build something meaningful.
-
-
           </p>
+          <p>  I now work on Helium Network deployments, blending my love for connectivity, infrastructure, and emerging technology. Whether it’s optimizing sensor data or expanding decentralized coverage, I’m driven by purpose and progress.
+          From breath to bandwidth, my mission is to empower, elevate, and build systems—biological and digital—that support growth and freedom.
+          Let’s connect, breathe, and build something meaningful.</p>
+        
+          
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

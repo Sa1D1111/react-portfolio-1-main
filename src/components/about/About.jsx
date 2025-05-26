@@ -41,21 +41,20 @@ const About = () => {
 
           <p>
               
-          Welcome! I'm a dedicated breathwork practitioner test
+          Welcome!
+          I’m a certified breathwork coach, personal trainer, and software developer with a passion for both human transformation and decentralized tech innovation.
 
-          I guide individuals on a transformative journey of self-discovery and healing through the power
-          of breath. With a deep understanding of somatic breathwork techniques, I create a safe and nurturing space for you to explore and release
-          physical, emotional, and mental blockages. My approach is rooted in the belief that the breath is a profound tool for accessing inner wisdom,
-          reducing stress, and fostering holistic well-being. Whether you’re seeking to connect more deeply with yourself, manage anxiety, or enhance 
-          your overall vitality, I am here to support you every step of the way on your path to greater peace and clarity.
+          My work as a breathwork and fitness coach is rooted in the belief that true well-being comes from aligning the body, mind, and nervous system. 
+          I guide individuals through somatic breathwork journeys and strength-focused training to help release emotional tension,
+          build confidence, and reconnect with their inner power.
          </p>
 
           <p>
-          Also currently honing my craft as a Computer Science student at CSU Fullerton. I'm a web developer, software engineer, and data enthusiast.
-          My journey through code and pixels is driven by a deep fascination with the possibilities of Machine Learning, Augmented Reality, Mixed Reality, 
-          Stable Diffusion, and Warp Fusion. As I navigate the ever-evolving tech landscape, my goal is to harness these technologies to build innovative 
-          solutions that resonate with users and spark progress. Join me as I meld academic rigor with real-world application, all while championing AI ethics 
-          to ensure technology remains a force for good. Let's create, innovate, and elevate together.
+          After earning my degree in Computer Science from Cal State Fullerton, I dove into the world of blockchain and wireless innovation.
+          I now work on Helium Network deployments, blending my love for connectivity, infrastructure, and emerging technology. Whether it’s optimizing sensor data or expanding decentralized coverage, I’m driven by purpose and progress.
+          From breath to bandwidth, my mission is to empower, elevate, and build systems—biological and digital—that support growth and freedom.
+          Let’s connect, breathe, and build something meaningful.
+
 
           </p>
 
